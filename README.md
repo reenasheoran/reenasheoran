@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reena Sheoran.
 - 👀 I’m interested in blockchain related projects.
-- 🌱 I’m currently learning the blockchain in machine learning. 
+- 🌱 I’m currently learning the machine learning using blockchain. 
 - 💞️ I’m looking to collaborate on real-world machine learning/deep learning projects.
 - 📫 You can reach me at reena.aneer@gmail.com
 
